@@ -1,2 +1,3 @@
-# SpectrumEstimation
-Chapter 8 : Spectrum Estimation (Statistical Digital Signal Processing &amp; Modeling)
+# Statistical Digital Signal Processing & Modeling
+Monson H. Hayes
+Chapter 8 : Spectrum Estimation 
