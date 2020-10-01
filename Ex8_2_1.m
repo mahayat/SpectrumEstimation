@@ -16,3 +16,5 @@ Px = my_periodogram(x);
 subplot(313);
 pi_axis = linspace(-1,1,length(Px));
 plot(pi_axis,10*log10(Px),'k'); grid on;
+%%
+print -dpng Ex8_2_1.png

@@ -18,4 +18,5 @@ grid on;
 xlim([0 1]);
 avg_Px = sum(all_Px,2)/N;
 plot(linspace(-1,1,length(Px)),10*log10(avg_Px),'r'); hold on;
+print -dpng Ex8_2_2.png
 %%
